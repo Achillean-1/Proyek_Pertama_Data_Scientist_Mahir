@@ -1,5 +1,5 @@
 ### Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju
-##Business Understanding
+## Business Understanding
 Jelaskan latar belakang bisnis dari perushaan tersebut.
 
 ## Permasalahan Bisnis
