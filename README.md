@@ -1,26 +1,26 @@
-###Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju
+### Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju
 ##Business Understanding
 Jelaskan latar belakang bisnis dari perushaan tersebut.
 
-##Permasalahan Bisnis
+## Permasalahan Bisnis
 Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
 
-##Cakupan Proyek
+## Cakupan Proyek
 Tuliskan cakupan proyek yang akan dikerjakan.
 
-##Persiapan
+## Persiapan
 Sumber data: ....
 
 Setup environment:
 
 
-##Business Dashboard
+## Business Dashboard
 Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
 
-##Conclusion
+## Conclusion
 Jelaskan konklusi dari proyek yang dikerjakan.
 
-##Rekomendasi Action Items (Optional)
+## Rekomendasi Action Items (Optional)
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
 action item 1
