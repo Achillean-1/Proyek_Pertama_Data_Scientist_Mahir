@@ -62,9 +62,7 @@ Model machine learning yang dikembangkan dalam proyek ini berhasil memprediksi k
 Business dashboard yang dibuat menggunakan Metabase memberikan visualisasi yang jelas dan interaktif. Dashboard ini memungkinkan tim HR untuk memonitor tingkat attrition dan faktor-faktor penyebabnya secara real-time, sehingga mendukung pengambilan keputusan berbasis data. Dengan adanya dashboard ini, HR dapat lebih mudah mengidentifikasi tren dan mengambil tindakan yang tepat untuk mengurangi turnover.  
 Secara keseluruhan, proyek ini memberikan wawasan yang berharga bagi PT Jaya Jaya Maju. Dengan memahami faktor-faktor utama penyebab attrition, perusahaan dapat merancang strategi retensi yang lebih efektif. Langkah ini diharapkan dapat mengurangi biaya rekrutmen, meningkatkan produktivitas, dan menjaga kontinuitas operasional perusahaan.  
 
-
-
-## Rekomendasi Action Items (Optional)
+## Rekomendasi Action Items
 Berdasarkan hasil analisis dan temuan dalam proyek ini, berikut adalah beberapa rekomendasi tindakan yang dapat diimplementasikan oleh PT Jaya Jaya Maju untuk mengurangi tingkat attrition:  
 1. Meningkatkan Kompensasi dan Opsi Saham
 Perusahaan perlu fokus pada peningkatan kompensasi untuk karyawan dengan pendapatan bulanan rendah (di bawah $4,000). Tinjau ulang skema gaji untuk memastikan bahwa kompensasi yang ditawarkan kompetitif dengan standar pasar. Selain itu, perusahaan dapat menawarkan opsi saham kepada karyawan di level yang lebih rendah (StockOptionLevel 0) untuk meningkatkan rasa memiliki dan loyalitas mereka terhadap perusahaan.  
