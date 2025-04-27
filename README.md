@@ -33,11 +33,11 @@ Untuk mendukung analisis dan pengembangan proyek, lingkungan kerja disiapkan den
 
 
 ## Business Dashboard
-# Penjelasan Business Dashboard:
+### Penjelasan Business Dashboard:
 Business dashboard untuk PT Jaya Jaya Maju telah dikembangkan menggunakan Metabase, sebuah platform visualisasi data yang interaktif. Dashboard ini dirancang untuk membantu departemen HR memahami tingkat attrition rate dan faktor-faktor yang memengaruhinya secara mendalam.  
-# Bagian 1: Overall Attrition Rate
+### Bagian 1: Overall Attrition Rate
 Pada bagian utama dashboard, tingkat attrition keseluruhan ditampilkan dalam bentuk gauge chart. Visualisasi ini menunjukkan bahwa tingkat attrition di perusahaan saat ini mencapai 16.98%. Dengan tampilan yang sederhana namun jelas, gauge chart ini memungkinkan tim HR untuk segera melihat seberapa serius masalah attrition yang dihadapi perusahaan.  
-# Bagian 2: Attrition Rate berdasarkan Faktor-Faktor Utama
+### Bagian 2: Attrition Rate berdasarkan Faktor-Faktor Utama
 Dashboard ini juga menyajikan analisis mendalam tentang tingkat attrition berdasarkan berbagai faktor. Visualisasi ini menggunakan kombinasi histogram dan line chart untuk menampilkan distribusi karyawan, jumlah karyawan yang keluar, serta tingkat attrition untuk setiap faktor berikut:  
 - StockOptionLevel: Karyawan dengan level opsi saham 0 memiliki tingkat attrition tertinggi, yaitu sekitar 22%.
 - MonthlyIncome: Karyawan dengan pendapatan bulanan di bawah $4,000 menunjukkan tingkat attrition tertinggi, yaitu sekitar 40%.
@@ -49,9 +49,9 @@ Dashboard ini juga menyajikan analisis mendalam tentang tingkat attrition berdas
 - EnvironmentSatisfaction: Karyawan dengan kepuasan lingkungan kerja rendah (level 1) memiliki tingkat attrition tertinggi, yaitu sekitar 35%.
 - JobSatisfaction: Karyawan dengan kepuasan kerja rendah (level 1) menunjukkan tingkat attrition tertinggi, yaitu sekitar 30%.
 - HourlyRate: Tidak ada pola yang jelas, tetapi tingkat attrition tertinggi (~25%) terlihat pada rentang 30-45.
-# Bagian 3: Fitur Interaktif
+### Bagian 3: Fitur Interaktif
 Dashboard ini dilengkapi dengan fitur interaktif untuk meningkatkan fleksibilitas analisis. Tim HR dapat menggunakan filter seperti "Jumlah Keluar Lebih Besar Dari" atau "Jumlah Keluar Lebih Kecil Dari" untuk memfokuskan analisis pada kelompok karyawan tertentu. Fitur ini memungkinkan HR untuk menyesuaikan analisis sesuai dengan kebutuhan spesifik mereka.  
-#Bagian 4: Visualisasi Faktor Utama
+### Bagian 4: Visualisasi Faktor Utama
 Dashboard juga menampilkan grafik Top 10 Faktor yang Mempengaruhi Attrition dalam bentuk bar chart. Grafik ini menunjukkan bahwa StockOptionLevel, MonthlyIncome, dan JobInvolvement adalah tiga faktor teratas yang paling memengaruhi tingkat attrition. Informasi ini sangat penting untuk membantu HR memprioritaskan area yang perlu diperbaiki.  
 
 ## Conclusion
